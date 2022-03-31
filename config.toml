@@ -1,0 +1,4 @@
+baseURL = 'https://hnc-dongminkim.github.io/hugo-with-react-test/'
+languageCode = "en-us"
+title = "Hugo with React test site"
+theme = "ananke"
