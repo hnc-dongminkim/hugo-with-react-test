@@ -5,5 +5,4 @@ draft: false
 ---
 
 Hello Hugo with React test
-{{< line_break >}}
 changed
